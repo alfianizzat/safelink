@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="introduction-to-mortgage-loans-housing.html"}
-if(x=="2"){xxx="making-offer-on-home-housing-finance.html"}
-if(x=="3"){xxx="renting-versus-buying-home-housing.html"}
-if(x=="4"){xxx="owner-finance-making-process-of-owning.html"}
-if(x=="5"){xxx="should-i-rent-or-buy-home-mint-personal.html"}a_to_ve[i].href="http://www.templatesafelinkgratis.ga/2017/10/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2017/10/introduction-to-mortgage-loans-housing.html"}
+if(x=="2"){xxx="/2017/10/is-buying-home-always-better-housing.html"}
+if(x=="3"){xxx="/2017/10/owner-finance-making-process-of-owning.html"}
+if(x=="4"){xxx="/2017/10/making-offer-on-home-housing-finance.html"}
+if(x=="5"){xxx="/2017/10/renting-versus-buying-home-housing.html"}a_to_ve[i].href="http://www.autosafelinkgratis.ga"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
